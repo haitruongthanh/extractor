@@ -1,0 +1,6 @@
+
+{
+  "name": "CIC Report Extractor",
+  "description": "An application to upload a CIC credit report PDF, extract collateral asset information using a Python backend, and export the results to an Excel file.",
+  "requestFramePermissions": []
+}
